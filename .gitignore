@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/eclipse,java
 
+.class
+target/
+
 ### Eclipse ###
 
 .metadata
@@ -8,6 +11,7 @@ bin/
 tmp/
 target/
 out/
+.idea/
 *.tmp
 *.bak
 *.swp
